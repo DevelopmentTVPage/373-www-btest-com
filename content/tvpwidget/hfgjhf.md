@@ -10,6 +10,6 @@
     "type": "solo",
     "title": "hfgjhf",
     "name": "hfgjhf",
-    "channelId": "85472663",
+    "channelId": "85668159",
     "layout": "bootstrap"
 }
