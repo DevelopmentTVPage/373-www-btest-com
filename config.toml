@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "A Ping"
+baseURL = "https:\/\/www.btest.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758397"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "btest.com"
